@@ -1,0 +1,14 @@
+TOKEN_LIST = [
+    "BTC-USDT-SPOT",
+    "ETH-USDT-SPOT",
+    "SOL-USDT-SPOT",
+    "XRP-USDT-SPOT",
+    "DOGE-USDT-SPOT",
+    "ADA-USDT-SPOT",
+    "DOT-USDT-SPOT",
+    "LTC-USDT-SPOT",
+    "LINK-USDT-SPOT",
+    "ONDO-USDT-SPOT",
+    "ZBC-USDT-SPOT",
+    "TAO-USDT-SPOT"
+]
